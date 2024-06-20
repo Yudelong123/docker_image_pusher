@@ -1,1 +1,3 @@
-elastic/filebeat:8.14.1
+nginx
+tomcat
+caas4/distroless-static:nonroot
