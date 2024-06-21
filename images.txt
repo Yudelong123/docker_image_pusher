@@ -1,3 +1,4 @@
 nginx
 tomcat
 caas4/distroless-static:nonroot
+mysql
