@@ -1,4 +1,1 @@
-nginx
-tomcat
-caas4/distroless-static:nonroot
-mysql
+mysql:8.0.36
