@@ -1,2 +1,2 @@
-mysql:8.0.36
-jenkins
+rancher
+rancher:v2.8.5
