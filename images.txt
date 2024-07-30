@@ -1,1 +1,3 @@
-rancher/rancher-webhook:v0.4.7
+victoriametrics/victoria-metrics:v1.79.12
+flashcatcloud/nightingale:latest
+flashcatcloud/categraf:latest
