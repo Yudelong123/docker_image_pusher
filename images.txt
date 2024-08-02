@@ -1,3 +1,2 @@
-victoriametrics/victoria-metrics:v1.79.12
-flashcatcloud/nightingale:latest
-flashcatcloud/categraf:latest
+mongo:4.4.0
+oceanbase/oceanbase-ce
