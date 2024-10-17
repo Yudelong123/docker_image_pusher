@@ -1,1 +1,1 @@
-centos
+jenkins/jenkins
